@@ -1,0 +1,5 @@
+com\mycompany\pharmacommercewebjava\JakartaRestConfiguration.class
+logica\Producto.class
+com\mycompany\pharmacommercewebjava\resources\JakartaEE8Resource.class
+com\mycompany\pharmacommercewebjava\servlets\Usuario.class
+com\mycompany\pharmacommercewebjava\servlets\SvProductos.class
